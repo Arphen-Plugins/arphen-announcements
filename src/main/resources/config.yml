@@ -1,0 +1,16 @@
+#Timer for the announcement [Measured in seconds](60 seconds = 1 minute)
+announcement-timer: 30
+
+#We use minimessage for the colors (https://docs.advntr.dev/minimessage/format.html)
+#Check out their web preview: https://webui.advntr.dev/
+announcements:
+  '0':
+    - ""
+    - "<red><b>Announcement</b>"
+    - "<white>Buy ranks at <hover:show_text:'<aqua>Ranks don't give any ingame advantage'><u>store.com</hover>"
+    - ""
+  '1':
+    - ""
+    - "<red><b>Announcement</b>"
+    - "<white>Love you all!"
+    - ""
