@@ -1,3 +1,3 @@
-# arphen-bedrock
+# arphen-announcements
 
-Ores regenerate after x seconds
+Announcements every x seconds
